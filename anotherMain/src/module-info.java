@@ -1,0 +1,3 @@
+module anotherMain {
+    requires MainApp;
+}
